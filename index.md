@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Assignment 2: My Reflective Blog
 
 You can use the [editor on GitHub](https://github.com/laystr/laystr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
