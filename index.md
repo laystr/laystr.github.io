@@ -1,19 +1,22 @@
 ## Assignment 2: My Reflective Blog
 
-You can use the [editor on GitHub](https://github.com/laystr/laystr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## This is me!!!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Name:** Tran Tuan Bao (Alex)
+**Student ID:** S3970254
+**Birthdate:** 25th of November, 2002
+
+
+### Contact information:
+
+**Phone:** +84 357690622
+**Email (Personal):** bomby88888@gmail.com
+
 
 - Bulleted
 - List
