@@ -5,7 +5,7 @@
 ### About me:
 
 # This is me!!!
-![ME(ALEX)](/laystr.github.io/docs/assets/Alex.JPG)
+![ALEX](/docs/assets/Alex.JPG)
 ```
 Name: Tran Tuan Bao (Alex)
 Student ID: S3970254
