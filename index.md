@@ -2,10 +2,10 @@
 
 
 
-### About me:
-
 # This is me!!!
 ![ALEX](/docs/assets/Alex.JPG)
+
+### About me:
 ```
 Name: Tran Tuan Bao (Alex)
 Student ID: S3970254
