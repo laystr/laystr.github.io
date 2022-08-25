@@ -1,11 +1,11 @@
 ## Assignment 2: My Reflective Blog
 
 
-/docs/
+
 ### About me:
 
 # This is me!!!
-![ME(ALEX)](/laystr.github.io/docs/assets/Alex.png)
+![ME(ALEX)](/laystr.github.io/docs/assets/Alex.JPG)
 ```
 Name: Tran Tuan Bao (Alex)
 Student ID: S3970254
